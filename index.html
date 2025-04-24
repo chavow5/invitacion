@@ -10,7 +10,7 @@
 <body>
 
     <div id="contenedor">
-        <h2>¿Quieres Salir Conmigo?</h2>
+        <h2>¿Quieres Salir a comer conmigo?</h2>
         <button id="botonSi">Sí</button>
         <button id="botonNo">No</button>
         <div id="resultado"></div>
@@ -23,13 +23,13 @@
 
         const frasesDivertidas = [
             "Seguro que no? Piénsalo mejor!",
-            "Vamos, da una oportunidad al amor!",
-            "El amor es ciego, pero no inexistente!",
+            "Vamos, da una oportunidad para ir por unas hamburgesas!",
+            "El amor es ciego, pero no inexistente para ir a comer!",
             "No tengas vergüenza, el amor espera!",
             "Y si es tu destino decir que sí?",
-            "Rechazar puede ser fácil, pero aceptar es más divertido!",
+            "aceptar es más divertido!",
             "El amor no muerde, prometido!",
-            "Una oportunidad para el amor, ¡no se niega!",
+            "Una oportunidad para el amor, ¡no me lo nieges!",
             "Decir 'sí' podría ser el comienzo de algo maravilloso!"
         ];
 
@@ -57,7 +57,7 @@
             botonNo.style.filter = 'none';
             contadorClicks = 0;
 
-            resultado.innerHTML = `<p>Sabía que dirías que sí ❤️</p><img src="images/happy.jpg" width="200px" height="100px">`;
+            resultado.innerHTML = `<p>Gracias por decir que sí ❤️</p><img src="images/happy.jpg" width="200px" height="100px">`;
             for (let i = 0; i < 300; i++) {
                 crearCorazon();
             }
