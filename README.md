@@ -9,4 +9,9 @@ Este proyecto es una invitación interactiva creada con **HTML**, **CSS** y **Ja
 - **Diseño atractivo**: Uso de estilos modernos con CSS.
 - **Interactividad**: Animaciones y efectos dinámicos.
 
+## screenshot
+![Si](https://github.com/user-attachments/assets/b4ba9e58-632f-4dd8-91bb-adabb55d174e)
+![No](https://github.com/user-attachments/assets/c6676874-48a9-41ec-a4e3-f04b09cedf73)
+
+
 # Deja tu 🌟 si te gusto
